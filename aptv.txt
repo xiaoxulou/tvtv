@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="凤凰",凤凰中文
+http://107.151.203.111:2209/135/hk.php?id=fhzw
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="凤凰",凤凰资讯
+http://107.151.203.111:2209/135/hk.php?id=fhzx
