@@ -1185,3 +1185,27 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1 tvg-id="BestTVlive" tvg-name="BestTVlive" tvg-logo="https://epg.112114.xyz/logo/BESTTVLIVE.png" group-title="IPV6专线1",BestTVlive
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
 
+#EXTINF:-1 group-title="4K",咪咕体育-4K-HLG源
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 group-title="4K",咪咕体育-4K源-2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTINF:-1 group-title="4K",江苏8K测试[ipv6]
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-name="CCTV8K测试[ipv6]" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K",CCTV8K测试[ipv6]
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-id="CCTV1[ipv6]" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="4K",CCTV1[ipv6]
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1,tvg-id="CCTV3[ipv6]" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="4K",CCTV3[ipv6]
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5[ipv6]" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="4K",CCTV5[ipv6]
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1,tvg-id="CCTV6[ipv6]" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="4K",CCTV6[ipv6]
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+#EXTINF:-1,tvg-id="CCTV8[ipv6]" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="4K",CCTV8[ipv6]
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 tvg-name="BesTV-4K[ipv6]" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="4K",BesTV[ipv6]
+http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 group-title="体育专线" tvg-logo="https://supcache.miancp.com/data/img.ye23.win/11logo/ty/mg.png",24小时体育台
+http://img.ye23.win/iptv2025ok@gmail.com/2211bc/ws.php?id=24
+
+
